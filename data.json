@@ -1,0 +1,23 @@
+{
+    "Programming": {
+        "Title":"Programming",
+        "Desc":"Coding is great part for me in my life. I have been coding for 5 years. Coding is something I love to do everyday.",
+        "why":"I started coding when i was around 15. I had great interest in computer when i was young. One of my computer mam help me to explore what is coding and taught me to coding. Since Than I have been coding all this years",
+        "image":"programming-image.jpeg"
+    },
+    "BasketBall": {
+        "Title":"Basketball",
+        "Desc":"Basketball this game was my another favorite things to do in my school life. This game is the best part of my school life, I got lot of frineds from this game.",
+        "why":"I gained interest in this game because of my friend and i use to play this game everyday with my friends in school",
+        "image":"basketball.jpg"
+    },
+    "Bikes": {
+        "Title":"Bikes",
+        "Desc":"",
+        "image":"bike.jpg"
+    }
+    
+  }
+
+
+
