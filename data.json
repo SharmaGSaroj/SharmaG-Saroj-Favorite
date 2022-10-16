@@ -8,12 +8,13 @@
     "BasketBall": {
         "Title":"Basketball",
         "Desc":"Basketball this game was my another favorite things to do in my school life. This game is the best part of my school life, I got lot of frineds from this game.",
-        "why":"I gained interest in this game because of my friend and i use to play this game everyday with my friends in school",
+        "why":"I gained interest in this game because of my friend and i use to play this game everyday with my friends in school.",
         "image":"basketball.jpg"
     },
     "Bikes": {
-        "Title":"Bikes",
-        "Desc":"",
+        "Title":"MotorBikes",
+        "Desc":"Bikes!!! I love these things a lot. I have a bike which is called Yamaha fz-25 which is a 250cc motor bike which was gifted by my brother for me in my birthday. I love to ride this bike a lot",
+        "why":"I love this motor bike because it was my first motor bike and I use to ride this motor bike daily",
         "image":"bike.jpg"
     }
     
